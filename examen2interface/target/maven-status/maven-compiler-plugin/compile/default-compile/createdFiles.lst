@@ -1,0 +1,5 @@
+models\Alumno.class
+com\mycompany\examen2interface\PrimaryController.class
+module-info.class
+com\mycompany\examen2interface\SecondaryController.class
+com\mycompany\examen2interface\App.class
